@@ -1,0 +1,12 @@
+% Octave script
+% Title               : 7.- E_libro.
+% Description         :Script para Definicion y Resolucion. Var., Fun., Dom. y Ran. V7
+% Authors             :Atzimba Joice Martinez Huitron
+%                     :Francelly Desiree Colin Sandoval 
+%                     :Ana Cristina Franco Gonzalez
+% Date                :20211014
+% Usage               :Octave  
+
+Cada una de las páginas de un libro debe tener 600 centímetros cuadrados de área, con
+márgenes  de  dos centímetros a los  lados y tres centímetros  arriba y  abajo, encuentra
+las dimensiones de la página para que permita la mayor área impresa posible.
